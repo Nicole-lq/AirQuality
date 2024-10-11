@@ -2,7 +2,7 @@
   
 # Air Quality Data Analysis: A comprehensive examination
 <p>
-  <img src="images/intro.png" width="500">
+  <img src="images/intro.png" width="400">
 </p>
 </div>
 
