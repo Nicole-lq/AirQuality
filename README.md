@@ -15,14 +15,13 @@ This project focuses on analyzing air quality data to assess various atmospheric
 
 ## Project Description
 
-This project analyzes air quality measurements from a dataset containing observations of ozone concentration (`Ozono`), solar radiation (`RadSol`), wind speed (`Vient`), temperature (`Temp`), and temporal data: month and day (`Mes`,`Dia`). The primary goal is to understand the relationship between these variables and their impact on air quality.
+This project analyzes air quality measurements from a dataset containing observations of ozone concentration (`Ozono`), solar radiation (`RadSol`), wind speed (`Vient`), temperature (`Temp`), and temporal data: month (`Mes`) and day (`Dia`). The primary goal is to understand the relationship between these variables and their impact on air quality.
 
 ## Technologies Used
 
 - **Language:** R
-- **Libraries** `mice`,`factoextra`,`gridExtra`,`tidyverse`,`visdat`,`dlookr`,`e1071`,`flextable`,`inspectdf`,`qqplotr`,`ggpmisc`, `fdth` and `corrplot`.
+- **Libraries:** `mice` `factoextra` `gridExtra`,`tidyverse`,`visdat`,`dlookr`,`e1071`,`flextable`,`inspectdf`,`qqplotr`,`ggpmisc`, `fdth` and `corrplot`.
 - **IDE:** RStudio
-
 
 ## Data Loading
 
