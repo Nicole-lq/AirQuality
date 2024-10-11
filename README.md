@@ -4,7 +4,6 @@
 <p>
   <img src="images/intro.png" width="500">
 </p>
-
 </div>
 
 # Overview
