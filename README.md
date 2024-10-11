@@ -7,8 +7,6 @@
 
 </div>
 
-# Air Quality Analysis Project
-
 ## Overview
 
 This project focuses on analyzing air quality data to assess various atmospheric measurements. By applying different data analysis techniques, including data imputation, statistical testing, and graphical visualizations, insights into air quality metrics are uncovered.
