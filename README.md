@@ -2,7 +2,7 @@
   
 # Air Quality Data Analysis: A comprehensive examination
 <p>
-  <img src="imagenes/intro.png" width="500">
+  <img src="images/intro.png" width="500">
 </p>
 
 </div>
@@ -46,14 +46,14 @@ The `mice` package was utilized to effectively impute missing values, storing th
 
 **Figure 1: Frequency Histograms**  
 <p>
-  <img src="imagenes/histogram.png" width="500">
+  <img src="images/histogram.png" width="500">
 </p>
 
 <br>
 
 **Figure 2: Normal Density and Cumulative Probability Graphs for RadSol and Vient**  
 <p>
-  <img src="imagenes/normal.png" width="500">
+  <img src="images/normal.png" width="500">
 </p>
 
 </div>
