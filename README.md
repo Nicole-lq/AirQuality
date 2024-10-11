@@ -40,11 +40,11 @@ The `mice` package was utilized to effectively impute missing values, storing th
 - Frequency histograms were created for the numeric variables (`Ozono`, `RadSol`, `Vient`, `Temp`) with mean and median lines to visualize distributions (Figure 1).
 - Normal density and cumulative probability graphs were generated for each variable (Figure 2).
 
-<div align="center">
+<div align="rigth">
 
 **Figure 1: Frequency Histograms**  
 <p>
-  <img src="images/histogram.png" width="500">
+  <img src="images/histograms.png" width="500">
 </p>
 
 <br>
