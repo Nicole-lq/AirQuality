@@ -7,40 +7,40 @@
 
 </div>
 
-## Overview
+# Overview
 
 This project focuses on analyzing air quality data to assess various atmospheric measurements. By applying different data analysis techniques, including data imputation, statistical testing, and graphical visualizations, insights into air quality metrics are uncovered.
 
-## Project Description
+# Project Description
 
 This project analyzes air quality measurements from a dataset containing observations of ozone concentration (`Ozono`), solar radiation (`RadSol`), wind speed (`Vient`), temperature (`Temp`), and temporal data: month (`Mes`) and day (`Dia`). The primary goal is to understand the relationship between these variables and their impact on air quality.
 
-## Technologies Used
+# Technologies Used
 
 - **Language:** R
 - **Libraries:** `mice` `factoextra` `gridExtra`,`tidyverse`,`visdat`,`dlookr`,`e1071`,`flextable`,`inspectdf`,`qqplotr`,`ggpmisc`, `fdth` and `corrplot`.
 - **IDE:** RStudio
 
-## Data Loading
+# Data Loading
 
 The data is loaded from a CSV file into a dataframe named `air` using the `read.csv()` function. This dataframe contains 100 observations and 6 numeric variables related to air quality measurements.
 
-## Missing Data Study
+# Missing Data Study
 
 An initial review of the dataframe was conducted to identify any missing values (NA). The analysis revealed missing values in the `Ozono` and `RadSol` variables, which account for 3.7% of the data.
 
-## Imputation of Missing Values
+# Imputation of Missing Values
 
 The `mice` package was utilized to effectively impute missing values, storing the result in a new dataframe called `air_impt`.
 
-## Data Analysis
+# Data Analysis
 
-### Graphical Analysis
+## Graphical Analysis
 
 - Frequency histograms were created for the numeric variables (`Ozono`, `RadSol`, `Vient`, `Temp`) with mean and median lines to visualize distributions (Figure 1).
 - Normal density and cumulative probability graphs were generated for each variable (Figure 2).
 
-<div align="rigth">
+<div align="center">
 
 **Figure 1: Frequency Histograms**  
 <p>
