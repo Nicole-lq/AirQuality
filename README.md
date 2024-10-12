@@ -65,6 +65,23 @@ The `mice` package was utilized to effectively impute missing values, storing th
 
 Boxplots were utilized to identify outliers in the `Ozono` and `Vient` variables. Outlier significance was assessed using the `flextable(diagnose_outlier())` function.
 
+<div align="center">
+
+**Table 1: Outlier details by variables**  
+<p>
+  <img src="images/table.png" width="700">
+</p>
+
+<br>
+
+**Figure 3: Boxplots by variables**  
+<p>
+  <img src="images/boxplots.png" width="600">
+</p>
+
+</div>
+
+
 # Results
 
 The analysis highlighted significant deviations from normality in the `Ozono` and `RadSol` variables. The `Shapiro-Wilk` test confirmed these findings, emphasizing the need for potential transformations in further analysis.
