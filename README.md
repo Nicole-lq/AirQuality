@@ -63,20 +63,19 @@ The `mice` package was utilized to effectively impute missing values, storing th
 
 ## Outlier Analysis
 
-Boxplots were utilized to identify outliers in the `Ozono` and `Vient` variables. Outlier significance was assessed using the `flextable(diagnose_outlier())` function.
+Boxplots were utilized to identify outliers in the `Ozono` and `Vient` variables (Figure 3). Outlier significance was assessed using the `flextable(diagnose_outlier())` function (Table 1).
 
 <div align="center">
-
-**Table 1: Outlier details by variables**  
-<p>
-  <img src="images/table.png" width="700">
-</p>
-
-<br>
 
 **Figure 3: Boxplots by variables**  
 <p>
   <img src="images/boxplots.png" width="600">
+</p>
+<br>
+
+**Table 1: Outlier details by variables**  
+<p>
+  <img src="images/table.png" width="700">
 </p>
 
 </div>
