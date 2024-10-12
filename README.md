@@ -17,7 +17,7 @@ This project analyzes air quality measurements from a dataset containing observa
 # Technologies Used
 
 - **Language:** R
-- **Libraries:** `mice` `factoextra` `gridExtra`,`tidyverse`,`visdat`,`dlookr`,`e1071`,`flextable`,`inspectdf`,`qqplotr`,`ggpmisc`, `fdth` and `corrplot`.
+- **Libraries:** `mice` `factoextra` `gridExtra` `tidyverse` `visdat` `dlookr` `flextable` `inspectdf` `qqplotr` `ggpmisc``corrplot`
 - **IDE:** RStudio
 
 # Data Loading
