@@ -61,19 +61,19 @@ The `mice` package was utilized to effectively impute missing values, storing th
 - **Hypothesis Testing:** Null and alternative hypotheses were defined to assess normality, applying the Shapiro-Wilk test.
 - **Skewness and Kurtosis:** Skewness and kurtosis were calculated to understand the distribution characteristics of the variables.
 
-### Outlier Analysis
+## Outlier Analysis
 
 Boxplots were utilized to identify outliers in the `Ozono` and `Vient` variables. Outlier significance was assessed using the `flextable(diagnose_outlier())` function.
 
-## Results
+# Results
 
 The analysis highlighted significant deviations from normality in the `Ozono` and `RadSol` variables. The `Shapiro-Wilk` test confirmed these findings, emphasizing the need for potential transformations in further analysis.
 
-## Conclusions
+# Conclusions
 
 Missing values were successfully imputed, and the month and day variables were transformed into categorical types. The analysis indicated skewness in some variables, suggesting the necessity for transformations or non-parametric modeling.
 
-## Future Work
+# Future Work
 
 To enhance the findings, future efforts will include:
 - Applying transformations (e.g., logarithmic or square root) to skewed variables.
