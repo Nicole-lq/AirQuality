@@ -56,7 +56,7 @@ The `mice` package was utilized to effectively impute missing values, storing th
 </div>
 
 
-### Mathematical Analysis
+## Mathematical Analysis
 
 - **Hypothesis Testing:** Null and alternative hypotheses were defined to assess normality, applying the Shapiro-Wilk test.
 - **Skewness and Kurtosis:** Skewness and kurtosis were calculated to understand the distribution characteristics of the variables.
