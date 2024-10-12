@@ -52,7 +52,7 @@ The `mice` package was utilized to effectively impute missing values, storing th
 <p>
   <img src="images/normal.png" width="500">
 </p>
-<br>
+
 </div>
 
 
@@ -77,7 +77,7 @@ Boxplots were utilized to identify outliers in the `Ozono` and `Vient` variables
 <p>
   <img src="images/table.png" width="700">
 </p>
-
+<br>
 </div>
 
 
